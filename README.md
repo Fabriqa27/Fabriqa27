@@ -25,6 +25,8 @@ Estudiante de quinto  cuatrimestre especializado en ciberseguridad con habilidad
 
 
 Proyectos Destacados
+🏢 Enterprise Network & NetDevOps Architecture
+Diseño, simulación y documentación de una red corporativa escalable para más de 1,000 usuarios en múltiples sedes. El proyecto implementa un modelo jerárquico de 3 capas (Cisco), seguridad perimetral con alta disponibilidad (Firewalls ASA, VPN IPsec), políticas de Hardening L2 y un sistema de automatización NetDevOps en Python (Netmiko) para respaldos masivos basados en Infrastructure as Data.
 
 ** 🏎️ **[F1 Manager](https://github.com/FabriQA27/f1-manager):** Motor de simulación deportiva con arquitectura en capas, 
 manejo seguro de archivos (I/O) y pruebas automatizadas (Java/Maven).Stack Tecnológico.
