@@ -1,61 +1,55 @@
-Portafolio de Ciberseguridad | Cybersecurity Portfolio
+# 🛡️ Fabricio Quesada A. | Portafolio de Ciberseguridad
 
-Estudiante de ingeniería en seguridad informática Especializado en blue Team, análisis de ciberseguridad y Seguridad de Redes.Python | Kali Linux | Wireshark | TCP/IP | OOP Java | MITRE ATT&CK
-Fabricio Quesada A- Portafolio de Ciberseguridad:
+**Estudiante de Ingeniería en Seguridad Informática | Especializado en Blue Team, Seguridad de Redes y NetDevOps**
 
-👋 Sobre mí:
+---
 
-Estudiante de quinto  cuatrimestre especializado en ciberseguridad con habilidades en Python, Kali Linux, Wireshark y análisis de redes TCP/IP.
+## 👋 Sobre Mí
 
+Soy estudiante de quinto cuatrimestre especializado en ciberseguridad, con un enfoque analítico y práctico. Me apasiona el análisis de redes corporativas, la automatización de procesos mediante código y la defensa proactiva (Blue Team).
 
-🛡️ Áreas de Especialización
+---
 
-•	Análisis de vulnerabilidades.
+## 🎯 Áreas de Especialización
 
-•	Seguridad de redes TCP/IP.
+* **Seguridad y Redes:** Análisis de vulnerabilidades, Seguridad de arquitecturas TCP/IP, Framework MITRE ATT&CK.
+* **Operaciones Defensivas:** Análisis forense y de tráfico con Wireshark, Pentesting con utilidades de Linux.
+* **Desarrollo y Automatización:** Creación de herramientas de ciberseguridad, automatización de redes en Python y Programación Orientada a Objetos (OOP).
 
-•	Desarrollo de herramientas de ciberseguridad en Python .
+---
 
-•	Análisis forense con Wireshark.
+## 🚀 Proyectos Destacados
 
-•	Pentesting con herramientas de Linux.
+### 🏢 [Enterprise Network Architecture](https://github.com/Fabriqa27/enterprise-network-architecture)
+> **Diseño, simulación y documentación de una red corporativa escalable para más de 1,000 usuarios.**
+* **Infraestructura:** Modelo jerárquico de 3 capas (Cisco), seguridad perimetral con alta disponibilidad (Firewalls ASA, VPN IPsec) y políticas de Hardening L2.
+* **Automatización:** Desarrollo de un sistema NetDevOps en Python (Netmiko) para la ejecución de respaldos masivos basados en *Infrastructure as Data*.
 
-•	Programación orientada a objetos en Java.
+### 🏎️ [F1 Manager](https://github.com/FabriQA27/f1-manager)
+> **Motor de simulación deportiva con arquitectura en capas.**
+* **Desarrollo:** Construido con Java OOP, implementando manejo seguro de archivos (I/O) y pruebas automatizadas (Maven).
 
+---
 
+## 💻 Stack Tecnológico
 
-Proyectos Destacados
-🏢 Enterprise Network & NetDevOps Architecture
-Diseño, simulación y documentación de una red corporativa escalable para más de 1,000 usuarios en múltiples sedes. El proyecto implementa un modelo jerárquico de 3 capas (Cisco), seguridad perimetral con alta disponibilidad (Firewalls ASA, VPN IPsec), políticas de Hardening L2 y un sistema de automatización NetDevOps en Python (Netmiko) para respaldos masivos basados en Infrastructure as Data.
+**Lenguajes de Programación**
+* Python (Nivel Avanzado)
+* Java OOP (Nivel Intermedio)
+* Bash Scripting (Nivel Intermedio)
 
-** 🏎️ **[F1 Manager](https://github.com/FabriQA27/f1-manager):** Motor de simulación deportiva con arquitectura en capas, 
-manejo seguro de archivos (I/O) y pruebas automatizadas (Java/Maven).Stack Tecnológico.
+**Herramientas y Entornos**
+* Kali Linux & Suite de Pentesting
+* Wireshark
+* Nmap
+* Arquitecturas de Red (Cisco, TCP/IP)
 
+---
 
+## 📫 Contacto
 
+* **LinkedIn:** [Fabricio Quesada Araya](https://www.linkedin.com/in/fabricio-quesada-araya-906288358/)
+* **Email:** [fabricioquesada27@gmail.com](mailto:fabricioquesada27@gmail.com)
 
-Lenguajes de Programación:
-
-•	Python (Nivel Avanzado)
-
-•	Java OOP (Nivel intermedio)
-
-•	Bash scripting( Nivel intermedio)
-
-
-Herramientas de Ciberseguridad:
-
-•	Herramientas de linux
-
-•	Wireshark
-
-•	Nmap
-
-
-Contacto:
-
-•	LinkedIn: Fabricio Quesada Araya
-
-•	Email: fabricioquesada27@gmail.com
-________________________________________
-Portafolio en construcción - Actualizando constantemente
+---
+*⚡ Portafolio en constante construcción y actualización.*
