@@ -49,7 +49,7 @@ Soy estudiante de quinto cuatrimestre especializado en ciberseguridad, con un en
 ## 📫 Contacto
 
 * **LinkedIn:** [Fabricio Quesada Araya](https://www.linkedin.com/in/fabricio-quesada-araya-906288358/)
-* **Email:** [fabricioquesada27@gmail.com](mailto:fabricioquesada27@gmail.com)
+* **Email:** [fquesada577@gmail.com](mailto:fquesada577@gmail.com)
 
 ---
 *⚡ Portafolio en constante construcción y actualización.*
