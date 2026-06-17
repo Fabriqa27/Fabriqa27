@@ -1,16 +1,16 @@
-# 🛡️ Fabricio Quesada A. | Portafolio de Ciberseguridad
+#  Fabricio Quesada A. | Portafolio de Ciberseguridad
 
 **Estudiante de Ingeniería en Seguridad Informática | Especializado en Blue Team, Seguridad de Redes y NetDevOps**
 
 ---
 
-## 👋 Sobre Mí
+##  Sobre Mí
 
 Soy estudiante de quinto cuatrimestre especializado en ciberseguridad, con un enfoque analítico y práctico. Me apasiona el análisis de redes corporativas, la automatización de procesos mediante código y la defensa proactiva (Blue Team).
 
 ---
 
-## 🎯 Áreas de Especialización
+##  Áreas de Especialización
 
 * **Seguridad y Redes:** Análisis de vulnerabilidades, Seguridad de arquitecturas TCP/IP, Framework MITRE ATT&CK.
 * **Operaciones Defensivas:** Análisis forense y de tráfico con Wireshark, Pentesting con utilidades de Linux.
@@ -18,7 +18,7 @@ Soy estudiante de quinto cuatrimestre especializado en ciberseguridad, con un en
 
 ---
 
-## 🚀 Proyectos Destacados
+##  Proyectos Destacados
 
 ### 🏢 [Enterprise Network Architecture](https://github.com/Fabriqa27/enterprise-network-architecture)
 > **Diseño, simulación y documentación de una red corporativa escalable para más de 1,000 usuarios.**
@@ -31,7 +31,7 @@ Soy estudiante de quinto cuatrimestre especializado en ciberseguridad, con un en
 
 ---
 
-## 💻 Stack Tecnológico
+##  Stack Tecnológico
 
 **Lenguajes de Programación**
 * Python (Nivel Avanzado)
@@ -46,10 +46,10 @@ Soy estudiante de quinto cuatrimestre especializado en ciberseguridad, con un en
 
 ---
 
-## 📫 Contacto
+##  Contacto
 
 * **LinkedIn:** [Fabricio Quesada Araya](https://www.linkedin.com/in/fabricio-quesada-araya-906288358/)
 * **Email:** [fquesada577@gmail.com](mailto:fquesada577@gmail.com)
 
 ---
-*⚡ Portafolio en constante construcción y actualización.*
+* Portafolio en constante construcción y actualización.*
