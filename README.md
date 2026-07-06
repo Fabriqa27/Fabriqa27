@@ -21,7 +21,7 @@ Soy estudiante de quinto cuatrimestre especializado en ciberseguridad, con un en
 ##  Proyectos Destacados
 ### 🛡️ [Lightweight Python IDS/IPS & Threat Simulation Framework](https://github.com/Fabriqa27/TU-REPOSITORIO)
 > **Despliegue de un laboratorio de ataque y defensa modular y contenedorizado para la mitigación automática de incidentes.**
-* **Infraestructura:** Orquestación de redes aisladas mediante Docker Compose, segmentando estaciones de ejecución ofensiva y servidores de monitoreo protegidos.
+* **Infraestructura:** organización de redes aisladas mediante Docker Compose, segmentando estaciones de ejecución ofensiva y servidores de monitoreo protegidos.
 * **Detección y Respuesta:** Motor de captura en tiempo real desarrollado en Python con filtros BPF para optimizar el uso de memoria RAM. Implementación de una lógica analítica basada en ventanas temporales deslizantes para bloquear direcciones IP maliciosas de forma dinámica a través de modificaciones automáticas en UFW.
 * **Auditoría e Ingesta:** Módulo autónomo de análisis sobre configuraciones del sistema operativo con generación de reportes estructurados en formato JSON, diseñados específicamente para su consumo directo en herramientas SIEM como Wazuh.
 
