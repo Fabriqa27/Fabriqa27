@@ -6,7 +6,7 @@
 
 ##  Sobre Mí
 
-Soy estudiante de quinto cuatrimestre especializado en ciberseguridad, con un enfoque analítico y práctico. Me apasiona el análisis de redes corporativas, la automatización de procesos mediante código y la defensa proactiva (Blue Team).
+Soy estudiante de sexto cuatrimestre especializado en ciberseguridad, con un enfoque analítico y práctico. Me apasiona el análisis de redes corporativas, la automatización de procesos mediante código y la defensa proactiva (Blue Team).
 
 ---
 
